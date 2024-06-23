@@ -1,6 +1,6 @@
 **GuideGuru - Your Ultimate Tourist Guide Web App**
 
-Welcome to GuideGuru, a full-featured and responsive web application designed to enhance the travel experience for tourists. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), GuideGuru provides a comprehensive platform for tourists to explore destinations, plan their trips, and stay informed with real-time updates. Leveraging JWT authentication, Weather API, 360 View API, and other cutting-edge technologies, GuideGuru ensures a secure, immersive, and user-friendly experience.
+Welcome to **GuideGuru**, a full-featured and responsive web application designed to enhance the travel experience for tourists. Developed using the **MERN stack** (_MongoDB, Express.js, React.js, Node.js)_, GuideGuru provides a comprehensive platform for tourists to explore destinations, plan their trips, and stay informed with real-time updates. _Leveraging JWT authentication, Weather API, 360 View API, and other cutting-edge technologies_, GuideGuru ensures a secure, immersive, and user-friendly experience.
 
 _**Key Features:**_
 
