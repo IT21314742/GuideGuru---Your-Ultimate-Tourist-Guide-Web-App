@@ -55,4 +55,9 @@ _**Installation:**_
    npm run dev
    ```
 
+**MEMBERS**
+1. Vihan Jayasinghe.
+2. Sahan kalhara.
+3. Kavindu Lakshan perera.
+4. Harindu chamod Munasinghe.
 _Embark on a seamless and enriching travel experience with GuideGuru. Explore, plan, and enjoy your journeys with confidence and convenience. We welcome your feedback and contributions to make GuideGuru even better._ ❤😊🎉
