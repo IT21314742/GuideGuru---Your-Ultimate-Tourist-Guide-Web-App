@@ -52,4 +52,4 @@ Welcome to GuideGuru, a full-featured and responsive web application designed to
    npm run dev
    ```
 
-Embark on a seamless and enriching travel experience with GuideGuru. Explore, plan, and enjoy your journeys with confidence and convenience. We welcome your feedback and contributions to make GuideGuru even better.
+_Embark on a seamless and enriching travel experience with GuideGuru. Explore, plan, and enjoy your journeys with confidence and convenience. We welcome your feedback and contributions to make GuideGuru even better._
