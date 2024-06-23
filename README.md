@@ -2,7 +2,8 @@
 
 Welcome to GuideGuru, a full-featured and responsive web application designed to enhance the travel experience for tourists. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), GuideGuru provides a comprehensive platform for tourists to explore destinations, plan their trips, and stay informed with real-time updates. Leveraging JWT authentication, Weather API, 360 View API, and other cutting-edge technologies, GuideGuru ensures a secure, immersive, and user-friendly experience.
 
-**Key Features:**
+_**Key Features:**_
+
 - **User Authentication:** Secure user accounts with JWT authentication for safe and personalized access to the app.
 - **Weather Updates:** Get real-time weather information for your destinations using the integrated Weather API, ensuring you’re always prepared.
 - **360° Views:** Explore destinations in an immersive way with 360° panoramic views, offering a virtual tour experience.
@@ -13,14 +14,16 @@ Welcome to GuideGuru, a full-featured and responsive web application designed to
 - **Reviews and Ratings:** Read reviews and ratings from other travelers to make informed decisions about places to visit.
 - **Advanced Technologies:** Developed using the latest web technologies including MERN stack, JWT authentication, and integrated APIs for a robust and scalable application.
 
-**How to Use:**
+_**How to Use:**_
+
 1. Clone the repository to access the source code.
 2. Install the necessary dependencies using `npm install` for both the client and server.
 3. Configure environment variables for API keys and JWT secret in a `.env` file.
 4. Run the development servers for both client and server using `npm run dev`.
 5. Access the application through your browser and explore the features of GuideGuru.
 
-**Installation:**
+_**Installation:**_
+
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/guideguru.git
@@ -52,4 +55,4 @@ Welcome to GuideGuru, a full-featured and responsive web application designed to
    npm run dev
    ```
 
-_Embark on a seamless and enriching travel experience with GuideGuru. Explore, plan, and enjoy your journeys with confidence and convenience. We welcome your feedback and contributions to make GuideGuru even better._
+_Embark on a seamless and enriching travel experience with GuideGuru. Explore, plan, and enjoy your journeys with confidence and convenience. We welcome your feedback and contributions to make GuideGuru even better._ ❤😊🎉
